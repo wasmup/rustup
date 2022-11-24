@@ -16,4 +16,3 @@ async fn main() -> std::io::Result<()> {
     .run()
     .await
 }
-// Finished dev [unoptimized + debuginfo] target(s) in 58.00s
